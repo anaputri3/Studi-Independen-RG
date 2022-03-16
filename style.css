@@ -1,0 +1,32 @@
+body {
+    background: url(Feed\ IG.jpg);
+  }
+.content {
+    color: brown;
+    justify-content: center;
+}
+
+h1 {
+    color: brown;
+    background-color: antiquewhite;
+}
+
+.link p {
+    color :brown;
+}
+
+.here {
+    color: brown;
+}
+
+footer ul li img {
+    width: 20%;
+}
+footer ul {
+    max-width: 640px;
+    margin: 2em auto;
+    padding: 0;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+}
